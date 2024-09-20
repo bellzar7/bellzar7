@@ -9,16 +9,16 @@ Hi, I'm Nazariy Belelya, a Full-Stack Developer & programming teacher 🚀 from 
 Languages and Tools:
 
 <div style='display: flex; align-items: center;'>
-<img style='width: 25px; height: 25px; margin-right: 150px;' src='https://camo.githubusercontent.com/4501903913fc289e8f067487f60632bb80745e26b0f073dc84c48cc5dce9bb9c/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f77656273746f726d2d69636f6e2d6c6f676f2d706e672d7472616e73706172656e742e706e67'/>
-<img style='width: 25px; height: 25px; margin-right: 15px;' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/>
-<img style='width: 25px; height: 25px; margin-right: 15px;' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png'/>
-<img style='width: 25px; height: 25px; margin-right: 15px;' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png'/>
-<img style='width: 25px; height: 25px; margin-right: 15px;' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'/>
-<img style='width: 25px; height: 25px; margin-right: 15px;' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png'/>
-<img style='width: 25px; height: 25px; margin-right: 15px;' src='https://camo.githubusercontent.com/f20a6299ddbc1ca01755fa3fcf605f9695133d872596d0cad3688ab8196eb26f/68747470733a2f2f313030306c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30382f4d6f6e676f44422d456d626c656d2e6a7067'/>
-<img style='width: 25px; height: 25px; margin-right: 15px;' src='https://raw.githubusercontent.com/feden2906/icons/main/skils/MySQL.png'/>
-<img style='width: 25px; height: 25px; margin-right: 15px;' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'/>
-<img style='width: 25px; height: 25px; margin-right: 15px;' src='https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png'/>
+<img style='width: 25px; height: 25px; margin-right: 150px;' src='/WebStorm.png'/>
+<img style='width: 25px; height: 25px; margin-right: 15px;' src='/JavaScript.png'/>
+<img style='width: 25px; height: 25px; margin-right: 15px;' src='/TypeScript.png'/>
+<img style='width: 25px; height: 25px; margin-right: 15px;' src='/NodeJS.png'/>
+<img style='width: 25px; height: 25px; margin-right: 15px;' src='/MongoDB.png'/>
+<img style='width: 25px; height: 25px; margin-right: 15px;' src='/MySQL.png'/>
+<img style='width: 25px; height: 25px; margin-right: 15px;' src='/React.png'/>
+<img style='width: 25px; height: 25px; margin-right: 15px;' src='/Redux.png'/>
+<img style='width: 25px; height: 25px; margin-right: 15px;' src='/nestjs.png'/>
+<img style='width: 25px; height: 25px; margin-right: 15px;' src='/docker.png'/>
 </div>
 </br>
 <img src='https://github-readme-stats.vercel.app/api?username=bellzar7'/>
