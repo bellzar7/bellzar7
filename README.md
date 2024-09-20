@@ -8,8 +8,7 @@ Hi, I'm Nazariy Belelya, a Full-Stack Developer & programming teacher 🚀 from 
 Languages and Tools:
 
 <img style='width: 25px; height: 25px' src='https://camo.githubusercontent.com/4501903913fc289e8f067487f60632bb80745e26b0f073dc84c48cc5dce9bb9c/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f77656273746f726d2d69636f6e2d6c6f676f2d706e672d7472616e73706172656e742e706e67'/>
-<img style='width: 25px; height: 25px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/>
-<img style='width: 25px; height: 25px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png'/>
+<img style='width: 25px; height: 25px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/><img style='width: 25px; height: 25px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png'/>
 <img style='width: 25px; height: 25px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png'/>
 <img style='width: 25px; height: 25px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'/>
 <img style='width: 25px; height: 25px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png'/>
